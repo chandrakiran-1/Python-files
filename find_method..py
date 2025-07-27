@@ -1,0 +1,9 @@
+a='chandrakiran'
+b='a'
+f1=a.find(b)
+f2=a.find(b,f+1)
+f3=a.find(b,f2+1)
+print(f1)
+print(f2)
+print(f3)
+print(a.find('x'))

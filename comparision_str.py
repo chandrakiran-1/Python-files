@@ -1,0 +1,10 @@
+x='A'
+y='a'
+print('x=',ord(x))
+print('y=',ord(y))
+print(x<y)
+print(x>y)
+print(x==y)
+print(x!=y)
+print(x>=y)
+print(x<=y)
