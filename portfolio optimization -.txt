@@ -1,0 +1,66 @@
+portfolio optimization :-
+
+
+	finding the best mix of assets for high return & low risk.
+
+Use of Portfolio Optimization
+
+Portfolio Optimization is used in finance/investing to:
+
+Choose the best mix of assets (stocks, bonds, etc.)
+
+Maximize return 💵
+
+Minimize risk 📉
+
+Follow constraints (budget, diversification, risk tolerance).
+
+👉 Example: You have ₹100 to invest in 3 stocks. Which stocks (and how much in each) give you the highest return with the lowest risk? That’s portfolio optimization.
+
+🔹 Features to Implement in Portfolio Optimization
+
+When building a portfolio optimization solution (classical or quantum), you usually include:
+
+Expected Returns
+
+The average return you expect from each asset.
+
+Risk (Covariance / Variance)
+
+How much the asset’s price fluctuates.
+
+Covariance shows how assets move together (important for diversification).
+
+Constraints
+
+Budget (how much money you have).
+
+Number of assets (e.g., must pick 2 out of 5).
+
+Minimum or maximum allocation per asset.
+
+Objective Function
+
+A mathematical formula that balances risk vs. return.
+
+Example: Minimize (Risk – Return).
+
+Optimization Method
+
+Classical → Linear/Quadratic programming.
+
+Quantum → QAOA, VQE with Qiskit.
+
+Output (Optimal Portfolio)
+
+Which assets to include.
+
+How much money to allocate to each.
+
+The risk-return tradeoff.
+
+✅ In short:
+
+Use → To find the best investment mix.
+
+Features → Returns, risks, budget, diversification, constraints, and optimization method.

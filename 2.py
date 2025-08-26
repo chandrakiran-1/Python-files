@@ -1,7 +1,3 @@
-a=10
-b=20
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
-print(a%b)
+import numpy as np
+a=np.ones((9),dtype=int)
+print(a)
