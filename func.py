@@ -1,0 +1,7 @@
+def add(a,b):
+    return a*b
+result= add(100,200)
+print(result)
+
+sq=lambda x: x*x
+print(sq(12))
